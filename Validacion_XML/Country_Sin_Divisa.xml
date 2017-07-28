@@ -1,0 +1,17 @@
+ <CalypsoUploadDocument ClientCode="dummy" UploadDate="" Version="1">
+        <CalypsoCountries>
+          <CalypsoCountry>
+            <Action>AMEND</Action>
+            <ISOCode>AM</ISOCode>
+            <Name>ARMENIA</Name>
+            <TimeZone>Asia/Yerevan</TimeZone>
+            <Currencies>
+              <Currency/>
+            </Currencies>
+            <Holidays/>
+            <EffectiveFrom>1992-01-01</EffectiveFrom>
+            <EffectiveTo>2100-01-01</EffectiveTo>
+            <EnabledB>true</EnabledB>
+          </CalypsoCountry>
+        </CalypsoCountries>
+</CalypsoUploadDocument>
